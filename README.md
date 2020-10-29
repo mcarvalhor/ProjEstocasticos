@@ -10,8 +10,8 @@ Neste repositório se encontra o projeto 1 de Processos Estocásticos.
 
 ## Organização do Repositório
 O repositório foi organizado da seguinte maneira:
-* [Especificacao](Especificacao.pdf): Especificação do projeto fornecida pelo professor.
-* [Resolucao](Resolucao.pdf): Relatório com resolução dos exercícios (parte escrita).
-* [Simulacao](Simulacao.ipynb): Relatório com resolução dos exercícios (parte da simulação). Deve ser executado através do Jupyter Notebook.
+* [Especificacao.pdf](Especificacao.pdf): Especificação do projeto fornecida pelo professor.
+* [Resolucao.pdf](Resolucao.pdf): Relatório com resolução dos exercícios (parte escrita).
+* [Simulacao.ipynb](Simulacao.ipynb): Relatório com resolução dos exercícios (parte da simulação). Deve ser executado através do Jupyter Notebook.
 
 
