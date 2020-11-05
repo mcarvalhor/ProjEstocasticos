@@ -3,7 +3,7 @@
 Neste repositório se encontra o projeto 1 de Processos Estocásticos.
 
 ## Integrantes
-* Luíza, Nº USP XXXXX
+* Luíza Pereira Pinto Machado, Nº USP 7564426
 * Marina Fontes Alcântara Machado, Nº USP 10692040
 * Matheus Carvalho Raimundo, Nº USP 10369014
 * Vitor, Nº USP XXXXX
